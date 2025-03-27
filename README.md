@@ -7,4 +7,4 @@
 ### 2.点击设置按钮设置好是否候补/定时抢票/通知方式等
 ### 3.填写出发站/到达站/乘车日期，点击查询选择对应的车次，再选择乘车人/席别后点击开始
 
-![](example.png)
+![](https://cdn.jsdelivr.net/gh/Nuyoahwjl/easy12306/example.png)
